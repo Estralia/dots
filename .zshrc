@@ -102,4 +102,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias nano='vim'
+alias ls='ls -lah'
 export LD_32_LIBRARY_PATH=/home/steam/.i386-wine-pkg/usr/local/lib
